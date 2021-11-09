@@ -1,1 +1,3 @@
 import numpy
+
+#First creat a grid using a numpy array.
