@@ -1,3 +1,4 @@
 import numpy
 
 #First creat a grid using a numpy array.
+v = np.array(4,4)
